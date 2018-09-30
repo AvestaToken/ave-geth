@@ -1,1 +1,10 @@
 keystore/
+.git/
+geth/LOCK
+geth/chaindata/
+geth/nodekey
+geth/nodes
+geth/lightchaindata/
+geth/transactions.rlp
+dag/
+nohup.out
